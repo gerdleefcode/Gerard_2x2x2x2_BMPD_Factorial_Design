@@ -1,8 +1,8 @@
 sink("Gerard_BMPD_ANOVA_N1469_260626.txt")
-cat("\n----------------------------------")
+cat("\n-----------------------------------")
 cat("\nPublisher: Lee Cheuk Man Gerard")
-cat("\nPublication date: 4th February 2026")
-cat("\n----------------------------------\n")
+cat("\nPublication date: 26th June 2026")
+cat("\n-----------------------------------\n")
 
 # Required packages (install if missing)
 packages <- c("dplyr", "readr", "car", "effectsize", "emmeans")
